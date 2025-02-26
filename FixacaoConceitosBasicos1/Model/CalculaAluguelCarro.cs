@@ -18,4 +18,5 @@ namespace FixacaoConceitosBasicos1.Model
 
             return valorTotal;
         }
+    }
 }
